@@ -1,0 +1,2 @@
+# coinmarketcap-scraper
+coinmarketcap-scraper
